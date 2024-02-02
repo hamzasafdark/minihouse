@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
         "target": "ES2022",
-        "outDir": "dist",
+        "outDir": "./build",
         "moduleResolution": "Node",
         "strict": true,
     },
