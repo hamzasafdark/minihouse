@@ -1,6 +1,7 @@
 {
   "name": "minihouse",
   "version": "1.0.0",
+  "license": "NOLICENSE",
   "description": "",
   "main": "src/index.ts",
   "scripts": {

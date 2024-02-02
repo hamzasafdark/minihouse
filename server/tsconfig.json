@@ -1,7 +1,6 @@
 {
     "compilerOptions": {
         "target": "ES2022",
-        "license": "NOLICENSE",
         "outDir": "./build",
         "moduleResolution": "Node",
         "strict": true,
